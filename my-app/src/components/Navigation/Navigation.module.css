@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  background-color: #444444;
+  height: 65px;
+  padding-left: 50px;
+  list-style: none;
+}
+
+.header__item {
+  text-decoration: none;
+  font-size: 23px;
+  padding-right: 30px;
+  color: #fff;
+}
